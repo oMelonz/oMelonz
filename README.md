@@ -5,7 +5,7 @@
   
 # Hey There! 👋
 
-I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto fiverr or other businesses to earn money.
+I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto Fiverr or other businesses to earn money. If you by any chance like by content, please leave me a star! Thanks you.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
