@@ -27,5 +27,6 @@ I obviously also have an interest in programming. I usually program websites, bu
 ### Contacts
 
 Gmail - melonzgithub@gmail.com
+
 Discord - Melonz#1234
 
