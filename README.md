@@ -11,17 +11,20 @@ I am a passionate website developer and programmer who uses HTML, CSS and JavaSc
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>
 </div>
 
+
 ### Hobbies🌱
 
 I have a hobby for speed solving, a competitive sport to solve the Rubik’s cube as fast as you can. My personal best is 8 seconds! Solving the cube makes me relax, and forget about the stressful stuff.
 
 I obviously also have an interest in programming. I usually program websites, but I am looking forward to creating software application development and game simulations.
 
+
+
 ### My Coding Skills🔧
 
 
-### My Statistics📈
-
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 
 ### Contacts
