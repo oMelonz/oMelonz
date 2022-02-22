@@ -19,10 +19,6 @@ I have a hobby for speed solving, a competitive sport to solve the Rubik’s cub
 I obviously also have an interest in programming. I usually program websites, but I am looking forward to creating software application development and game simulations.
 
 
-
-### My Coding Skills🔧
-
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
