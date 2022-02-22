@@ -12,7 +12,7 @@ I am a passionate website developer and programmer who uses HTML, CSS and JavaSc
 </div>
 
 
-### Hobbies🌱
+### 🌱 Hobbies
 
 I have a hobby for speed solving, a competitive sport to solve the Rubik’s cube as fast as you can. My personal best is 8 seconds! Solving the cube makes me relax, and forget about the stressful stuff.
 
@@ -24,7 +24,7 @@ I obviously also have an interest in programming. I usually program websites, bu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMelonz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contacts
+### 📫 Contacts
 
 Gmail - melonzgithub@gmail.com
 
