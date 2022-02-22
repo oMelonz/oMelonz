@@ -1,13 +1,30 @@
-- 👋 Hi, I’m @oMelonz or Joshua
 
-- 📕 I'm always ready to learn new things.
 
-- 👀 I’m interested in Speedsolving and programming.
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript, the basic needs to create a functioning website.
 
-- 💞️ I’m looking to collaborate with other developers, or work in a website development company.
+#👋 Hey There! 
 
-- 💻 I run a small website for my own club at my school
+I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto fiverr or other businesses to earn money.
 
-- 📫 If you have any inquiries, please feel free to contact me through melonzgithub@gmail.com
+#🌱 Hobbies
+
+I have a hobby for speed solving, a competitive sport to solve the Rubik’s cube as fast as you can. My personal best is 8 seconds! Solving the cube makes me relax, and forget about the stressful stuff.
+
+I obviously also have an interest in programming. I usually program websites, but I am looking forward to creating software application development and game simulations.
+
+#🔧 My Coding Skills
+
+
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+#📈 My Statistics
+
+
+
+# Contacts
+
+Gmail - melonzgithub@gmail.com
+Discord - Melonz#1234
