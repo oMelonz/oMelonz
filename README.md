@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" href="https://www.youtube.com/channel/UCKPut_fp7h4snzP0eUEiFjw"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  
 # Hey There! 👋
 
 I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto fiverr or other businesses to earn money.
