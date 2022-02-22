@@ -24,7 +24,7 @@ I obviously also have an interest in programming. I usually program websites, bu
 
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-oMelonz
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ### Contacts
