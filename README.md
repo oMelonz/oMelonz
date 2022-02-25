@@ -41,5 +41,5 @@ Website - https://melonzport.netlify.app/
 
 Gmail - melonzgithub@gmail.com
 
-Discord - Melonz#1234
+Discord - Melonz#0618
 
