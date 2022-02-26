@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/100125080/155830273-ce197336-3a81-4f0f-80e1-b84895cfde37.png">
+  <img width="460" height="300" object-fit="cover" src="https://user-images.githubusercontent.com/100125080/155830273-ce197336-3a81-4f0f-80e1-b84895cfde37.png">
 </p>
 <div id="badges">
   <div id="badges">
