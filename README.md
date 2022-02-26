@@ -20,7 +20,7 @@ I am a passionate website developer and programmer who uses HTML, CSS and JavaSc
 - Saving and investing
 - Having a great time!
  
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -43,12 +43,9 @@ I obviously also have an interest in programming. I usually program websites, bu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 ### 📫 Contacts
   
-Website - https://melonzport.netlify.app/
+<a href="https://melonzport.netlify.app/">
+<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="Youtube Badge"/>
 
 Gmail - melonzgithub@gmail.com
 
 Discord - Melonz#0618
-
-  [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
