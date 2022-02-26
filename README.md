@@ -1,6 +1,4 @@
-[melonz logo](https://user-images.githubusercontent.com/100125080/155830273-ce197336-3a81-4f0f-80e1-b84895cfde37.png)
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100125080/155830273-ce197336-3a81-4f0f-80e1-b84895cfde37.png" width="100"/>
 </div>
 <div id="badges">
   <div id="badges">
