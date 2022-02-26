@@ -35,11 +35,11 @@ I obviously also have an interest in programming. I usually program websites, bu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMelonz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMelonz&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMelonz&show_icons=true&theme=tokyonight)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMelonz&show_icons=true&theme=tokyonight)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oMelonz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
 ### 📫 Contacts
   
