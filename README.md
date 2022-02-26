@@ -44,10 +44,10 @@ I obviously also have an interest in programming. I usually program websites, bu
 ### 📫 Contacts
   
 <a href="https://melonzport.netlify.app/">
-<img src="https://img.shields.io/badge/Website-Click me-orange" alt="Youtube Badge"/>
+<img src="https://img.shields.io/badge/Website-Click me-orange" alt="Website Badge"/>
 
 <br><br><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-<img src="https://img.shields.io/badge/Email-Contact Me-red" alt="Youtube Badge"/>
+<img src="https://img.shields.io/badge/Email-Contact Me-red" alt="Email Badge"/>
   
 <br><br><a href="https://discord.com/channels/@me">
-<img src="https://img.shields.io/badge/Discord-Contact Me-#2C2F33" alt="Youtube Badge"/>
+<img src="https://img.shields.io/badge/Discord-Contact Me-#2C2F33" alt="Discord Badge"/>
