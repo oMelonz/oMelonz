@@ -44,7 +44,7 @@ I obviously also have an interest in programming. I usually program websites, bu
 ### 📫 Contacts
   
 <a href="https://melonzport.netlify.app/">
-<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="Youtube Badge"/>
+<img src="https://img.shields.io/badge/Email-Contact Me-orange" alt="Youtube Badge"/>
 
 Gmail - melonzgithub@gmail.com
 
