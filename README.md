@@ -48,6 +48,3 @@ I obviously also have an interest in programming. I usually program websites, bu
 
 <br><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
 <img src="https://img.shields.io/badge/Email-Contact Me-red" alt="Email Badge"/>
-  
-<br><a href="https://discord.com/channels/@me">
-<img src="https://img.shields.io/badge/Discord-Contact Me-#2C2F33" alt="Discord Badge"/>
