@@ -17,7 +17,7 @@ I am a passionate website developer and programmer who uses HTML, CSS and JavaSc
 
 - Studying at high school
 - Learning... Everything...
-- Saving investing in bitcoin
+- Saving and investing
 - Having a great time!
  
 ### :hammer_and_wrench: Languages and Tools :
