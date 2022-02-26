@@ -9,10 +9,17 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=oMelonz&style=flat-square&color=blue" alt=""/>
   
-# 👋Hey There!
+# 👋 Hey There!
 
 I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto Fiverr or other businesses to earn money. If you by any chance like by content, please leave me a star! Thanks you.
 
+### ⌚ What I am currently doing
+
+- Studying at high school
+- Learning... Everything...
+- Saving investing in bitcoin
+- Having a great time!
+ 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,6 +42,7 @@ I obviously also have an interest in programming. I usually program websites, bu
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oMelonz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### 📫 Contacts
   
 Website - https://melonzport.netlify.app/
