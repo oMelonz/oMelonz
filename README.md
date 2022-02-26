@@ -11,7 +11,7 @@
   
 # 👋 Hey There!
 
-I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto Fiverr or other businesses to earn money. If you by any chance like by content, please leave me a star! Thanks you.
+I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto Fiverr or other businesses to earn money. If you by any chance like by content, please leave me a star! Thank you.
 
 ### ⌚ What I am currently doing
 
