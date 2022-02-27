@@ -12,13 +12,20 @@
 # 👋 Hey There!
 
 I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto Fiverr or other businesses to earn money. If you by any chance like by content, please leave me a star! Thank you.
-
+  
 ### ⌚ What I am currently doing
 
 - Studying at high school
 - Learning... Everything...
 - Saving and investing
 - Having a great time!
+  
+### 🔂 My future plans
+  
+- Learn more JavaScript
+- Finish school...
+- Get sponsored (maybe)
+- Enjoy myself
  
 ### :hammer_and_wrench: Languages and Tools
 <div>
