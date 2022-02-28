@@ -26,6 +26,7 @@ I am a passionate website developer and programmer who uses HTML, CSS and JavaSc
 - Once programmed for 16 hours straight
 - Made it into the advanced math class :)
 - Once recieved a perfect test score award
+- Is cringe ;)
   
 ### 🔂 My future plans
   
