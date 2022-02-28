@@ -20,6 +20,11 @@ I am a passionate website developer and programmer who uses HTML, CSS and JavaSc
 - Saving and investing
 - Having a great time!
   
+### 🏆 My Achievements
+
+- Runs a club in my school
+- That's it..
+  
 ### 🔂 My future plans
   
 - Learn more JavaScript
