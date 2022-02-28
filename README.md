@@ -23,7 +23,7 @@ I am a passionate website developer and programmer who uses HTML, CSS and JavaSc
 ### 🏆 My Achievements
 
 - Runs a club in my school
-- That's it..
+- Once programmed for 16 hours straight
   
 ### 🔂 My future plans
   
