@@ -9,7 +9,9 @@
     </a>
   </p>
 </div>
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oMelonz&style=flat-square&color=blue" alt=""/>
+  </p>
   
 # 👋 Hey There!
 
