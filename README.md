@@ -59,9 +59,9 @@ I obviously also have an interest in programming. I usually program websites, bu
 Video editing is something I am good at too, I can edit advanced effects and grade colors through Da Vinci Resolve. I am working towards combining all these things, and make the most out of it.
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oMelonz&theme=tokyonight)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMelonz&show_icons=true&theme=tokyonight)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oMelonz&theme=tokyonight)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMelonz&show_icons=true&theme=tokyonight)
 ### 📫 Contacts
   
 <a href="https://melonzport.netlify.app/">
