@@ -3,9 +3,11 @@
 </p>
 <div id="badges">
   <div id="badges">
-  <a href="https://www.youtube.com/channel/UCKPut_fp7h4snzP0eUEiFjw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UCKPut_fp7h4snzP0eUEiFjw">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </p>
 </div>
   <img src="https://komarev.com/ghpvc/?username=oMelonz&style=flat-square&color=blue" alt=""/>
   
