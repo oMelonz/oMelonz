@@ -15,7 +15,9 @@
   
 # 👋 Hey There!
 
-I am a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am working to go onto Fiverr or other businesses to earn money. If you by any chance like by content, please leave me a star! Thank you.
+I am Melonz, a passionate website developer and programmer who uses HTML, CSS and JavaScript. I am usually friendly to talk to. Currently working to go onto Fiverr or other businesses to earn money. If you like my content, please leave me a star! Thank you. 
+
+Have any questions? the contacts are below!
   
 ### ⌚ What I am currently doing
 
@@ -28,9 +30,9 @@ I am a passionate website developer and programmer who uses HTML, CSS and JavaSc
 
 - Runs a club in my school
 - Once programmed for 16 hours straight
-- Made it into the advanced math class :)
+- Made it into the advanced math class
 - Once recieved a perfect test score award
-- Is cringe ;)
+- Solved a Rubik's cube in 8 seconds!
   
 ### 🔂 My future plans
   
@@ -54,6 +56,7 @@ I have a hobby for speed solving, a competitive sport to solve the Rubik’s cub
 
 I obviously also have an interest in programming. I usually program websites, but I am looking forward to creating software application development and game simulations.
 
+Video editing is something I am good at too, I can edit advanced effects and grade colors through Da Vinci Resolve. I am working towards combining all these things, and make the most out of it.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oMelonz&theme=tokyonight)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMelonz&show_icons=true&theme=tokyonight)
