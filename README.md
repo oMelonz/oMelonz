@@ -63,7 +63,7 @@ Video editing is something I am good at too, I can edit advanced effects and gra
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMelonz&show_icons=true&theme=tokyonight)
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oMelonz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Melonz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### 📫 Contacts
   
 <a href="https://melonzport.netlify.app/">
