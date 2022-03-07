@@ -25,6 +25,7 @@ Have any questions? the contacts are below!
 - Learning... Everything...
 - Saving and investing
 - Having a great time!
+- Playing Valorant...
   
 ### 🏆 My Achievements
 
