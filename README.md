@@ -41,6 +41,7 @@ Have any questions? the contacts are below!
 - Finish school...
 - Get sponsored (maybe)
 - Enjoy myself
+- Go to Sydney College
  
 ### :hammer_and_wrench: Languages and Tools
 <div>
